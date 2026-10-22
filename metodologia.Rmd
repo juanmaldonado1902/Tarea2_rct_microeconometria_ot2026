@@ -16,15 +16,13 @@ Primero limpiaron errores: registros con datos incompletos, direcciones mal escr
 
 Después dieron forma al tipo de vecindario que querían estudiar. Como la carta *Neighbors* depende de que haya vecinos reconocibles, eliminaron las cuadras con muchos departamentos y las calles con muy pocas casas. El experimento quedó concentrado en vecindarios de casas unifamiliares, donde "tus vecinos" significa algo concreto.
 
-Luego quitaron a quienes probablemente no reaccionarían a una carta enviada días antes de la elección. Por un lado, los hogares que suelen votar por correo, porque muchos ya habrían decidido o enviado su voto. Por otro, los hogares con fuerte inclinación demócrata, porque en esa primaria la contienda relevante estaba del lado republicano y tenían poco motivo para participar.
+Luego quitaron a quienes probablemente no reaccionarían a una carta enviada días antes de la elección. Por un lado, los hogares que suelen votar por correo, porque muchos ya habrían decidido o enviado su voto. Por otro, los hogares con fuerte inclinación demócrata, porque en esa primaria la contienda relevante estaba del lado republicano y tenían poco motivo para participar.(Esta es la parte que mencionaba en la reunión)
 
-Hubo también una restricción de costo. Para enviar las cartas usaron la tarifa de correo masivo por ruta de cartero, mucho más barata que el franqueo normal, que el servicio postal sólo concede si se envían al menos diez cartas a una misma ruta. Como de cada dieciocho hogares sólo ocho reciben carta y el resto es control, una ruta necesita alrededor de veinticinco hogares en la muestra para alcanzar ese mínimo. Por eso eliminaron las rutas a las que, después de todas las demás exclusiones, les quedaban menos de veinticinco hogares elegibles.
+Hubo también una restricción de costo. Para enviar las cartas usaron la tarifa de correo masivo por ruta de cartero, mucho más barata que el franqueo normal, que el servicio postal sólo concede si se envían al menos diez cartas a una misma ruta. Como de cada dieciocho hogares sólo ocho reciben carta y el resto es control, una ruta necesita alrededor de veinticinco hogares en la muestra para alcanzar ese mínimo. Por eso eliminaron las rutas a las que, después de todas las demás exclusiones, les quedaban menos de veinticinco hogares elegibles.(*Esta es la parte central*)
 
 Por último, quitaron a quienes no votaron en la elección presidencial de 2004. Fue una elección de participación altísima, y los autores supusieron que quien no votó ahí probablemente se había mudado, había fallecido o estaba registrado dos veces.
 
-El resultado es una muestra muy particular: votantes habituales, en casas unifamiliares, fuera de zonas demócratas. Esto no afecta la comparación entre grupos, porque todos salen de la misma población depurada, pero sí limita a quién se pueden extrapolar los resultados.
-
-## Los bloques (Blocks)
+## Los bloques (Blocks en la base clusters)
 
 Con la muestra lista, los autores ordenaron los hogares tal como lo hace el servicio postal: por código postal, por ruta de cartero y, dentro de cada ruta, en el orden en que el cartero camina. Así, dos hogares consecutivos en la lista son vecinos en el recorrido.
 
@@ -37,5 +35,3 @@ El sorteo no se hizo sobre toda la muestra de golpe, sino **dentro de cada bloqu
 Esto tiene una consecuencia importante: en cada vecindario pequeño conviven los cinco grupos. El control de un bloque se parece a sus tratados no sólo en promedio, sino porque literalmente vive a unas casas de distancia.
 
 Finalmente, la lista se devolvió al orden del cartero y cada hogar tratado recibió una sola carta, once días antes de la primaria del 8 de agosto de 2006.
-
-
